@@ -19,5 +19,5 @@ puts num2 / num1
 end
 
 def square_root(num)
-pust Math.sqrt(num)
+puts Math.sqrt(num)
 end
